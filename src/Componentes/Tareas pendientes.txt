@@ -1,0 +1,18 @@
+Backend:
+
+- Publicar
+- Leer
+- Eliminar
+- Editar
+
+Centrar el contenido.
+Botones útiles:
+- Home
+- Explore
+- Notifications
+- Messages
+- Bookmarks
+- Profile
+Tweets predefinidos
+Perfiles adicionales
+jpordomingp@fulp.es
